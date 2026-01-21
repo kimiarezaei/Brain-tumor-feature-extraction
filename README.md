@@ -12,7 +12,8 @@ These handcrafted texture features are designed to capture spatial intensity pat
 
 If you use this code or build upon this work, please cite the following paper:
 
-> [**Segmentation and Classification of Brain Tumor CT Images Using SVM with Weighted Kernel Width**]([https://ieeexplore.ieee.org/abstract/document/10782021](https://csitcp.org/paper/7/73csit04.pdf))
+> Segmentation and Classification of Brain Tumor CT Images Using SVM with Weighted Kernel Width.  
+> Available at: https://csitcp.org/paper/7/73csit04.pdf
 
 ``` bash
 @article{rezaei2017segmentation,
